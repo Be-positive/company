@@ -1,16 +1,9 @@
 # company
 
-Some description...
+This project is just pet project, no more, not full functioning webside. Just small piece of frontend with HTML/CSS (sass) and little code of JS inside HTML. But i like this!
 
-##some code
-
-Some definition
-
-## Local development
-1.Open index.html in your browser
-
-## I need to change in SASS!
-1. Wotk with footer section, with flex...
+## I need to change little in SASS!
+1. Work with footer section, use the flexbox right...
 
 
 
